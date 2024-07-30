@@ -105,7 +105,7 @@ p {
   width: 100%;
 
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 .custom-card .contact img {
